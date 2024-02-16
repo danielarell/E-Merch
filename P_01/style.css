@@ -1,0 +1,12 @@
+.carousel-item img {
+    max-height: 500px; /* Establece la altura deseada para todas las imágenes */
+}
+
+.card-img-top {
+    height: 150px; /* Altura fija para todas las imágenes */
+    object-fit:contain; /* Ajustar imagen para llenar el contenedor */
+}
+
+.custom-margin {
+    margin-top: 20px; 
+}
